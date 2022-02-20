@@ -4,7 +4,7 @@ html{
 }
 
 body{
-	font-family: Arial, Helvetica,sans-serif;
+	font-family: Arial,sans-serif;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -75,7 +75,7 @@ body{
     padding: 10px 36px;
     color: #000000;
     display: inline-block;
-   	font: italic bold 20px/1 "Calibri", sans-serif;
+   	font: bold 20px/1 "Calibri", sans-serif;
     text-align: center;
 }
 
